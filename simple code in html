@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h1>My class</h1>
+<p>This is a<i><b>Web engineering</b></i> course for third year</p>
+<br>
+<u>Hello</u>
+<br>
+<u><mark>it should be at 10:30 not<strike>10:45</strike></mark></u>
+</body>
+</html>
