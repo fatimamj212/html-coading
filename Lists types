@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+
+<ol><li>work hard</li>
+<li>study hard</li>
+</ol>
+
+<ol type="A"><li>work hard</li>
+<li>study hard</li>
+</ol>
+
+<ol start="10"><li>work hard</li>
+<li>study hard</li>
+</ol>
+
+<ol reversed="2"><li>work hard</li>
+<li>study hard</li>
+</ol>
+
+<ul><li>work hard</li>
+<li>study hard</li>
+</ul>
+
+<dl><dt>TCP</dt>
+<dd>Transmission Control Protocol</dd></dl>
+
+<dl><dt>IP</dt>
+<dd>Internet Protocol</dd></dl>
+
+</body>
+</html>
